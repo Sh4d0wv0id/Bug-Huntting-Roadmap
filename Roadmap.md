@@ -252,6 +252,9 @@ PRACTICE! PRACTICE! MAKES YOU BETTER AND BETTER
 
 ![](https://miro.medium.com/max/1400/1*7lVhULTI7ch4uMLEKVZDrA.png)
 
+TEMPLEATES FOR ALL BUG HUNTING REPORTS - 
+[TEMPLEATES](https://github.com/xn4k/BugBounty-reports-templates/tree/master)
+
 ### Some additional Tips
 1. **Don't do bug bounty as a full time** in the beginning (although I suggest don't do it full time at any point). There is no guarantee to get bugs every other day, there is no stability. Always keep multiple sources of income (bug bounty not being the primary).
 2. **Stay updated**, learning should never stop. Join twitter, follow good people, maintain the curiosity to learn something new every day. Read writeups, blogs and keep expanding your knowledge.
